@@ -7,19 +7,19 @@ body{
      border: 3px solid #a9c9f4;
 }
 .chatMessage1{
-    width: 140%;
+    width: 80%;
 }
 .chatMessage2{
     width: 50%;
 }
 .chatMessage3{
-    width: 210%;
+    width: 30%;
 }
 .chatMessage4{
-    width: 40%;
+    width: 90%;
 }
 .chatMessage5{
-    width: 87%;
+    width: 25%;
 }
 .spacing_shadow_height{
     height: 70px;

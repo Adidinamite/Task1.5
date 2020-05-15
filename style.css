@@ -6,24 +6,20 @@ body{
      border-radius: 10px;
      border: 3px solid #a9c9f4;
 }
-.container{
-    display: flex;
-   flex-direction: column;
-}
 .chatMessage1{
-    width: 900px;
+    width: 140%;
 }
 .chatMessage2{
-    width: 400px;
+    width: 50%;
 }
 .chatMessage3{
-    width: 1200px;
+    width: 210%;
 }
 .chatMessage4{
-    width: 200px;
+    width: 40%;
 }
 .chatMessage5{
-    width: 500px;
+    width: 87%;
 }
 .spacing_shadow_height{
     height: 70px;
